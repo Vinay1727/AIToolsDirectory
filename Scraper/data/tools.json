@@ -1,0 +1,352 @@
+[
+  {
+    "name": "ChatGPT",
+    "description": "Conversational AI by OpenAI for text generation and tasks.",
+    "website_url": "https://chat.openai.com",
+    "category": "Chatbots",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg"
+  },
+  {
+    "name": "Midjourney",
+    "description": "Leading AI image generator known for high-quality artistic output.",
+    "website_url": "https://www.midjourney.com",
+    "category": "Image Generator",
+    "logo_url": ""
+  },
+  {
+    "name": "Claude",
+    "description": "Highly capable AI model by Anthropic with long context window.",
+    "website_url": "https://claude.ai",
+    "category": "Chatbots",
+    "logo_url": ""
+  },
+  {
+    "name": "Copy.ai",
+    "description": "AI-powered copywriting tool for marketing and business content.",
+    "website_url": "https://www.copy.ai",
+    "category": "Content Creation",
+    "logo_url": ""
+  },
+  {
+    "name": "Jasper",
+    "description": "AI content platform that helps teams create high-quality content faster.",
+    "website_url": "https://www.jasper.ai",
+    "category": "Content Creation",
+    "logo_url": ""
+  },
+  {
+    "name": "GitHub Copilot",
+    "description": "AI pair programmer that helps you write code faster.",
+    "website_url": "https://github.com/features/copilot",
+    "category": "Coding Assistant",
+    "logo_url": ""
+  },
+  {
+    "name": "Grammarly",
+    "description": "AI writing assistant for grammar, spelling, and tone checks.",
+    "website_url": "https://www.grammarly.com",
+    "category": "Content Creation",
+    "logo_url": ""
+  },
+  {
+    "name": "Synthesia",
+    "description": "AI video creation platform using digital avatars.",
+    "website_url": "https://www.synthesia.io",
+    "category": "Video Ai",
+    "logo_url": ""
+  },
+  {
+    "name": "Runway",
+    "description": "Next-generation creative tools for AI-powered video editing.",
+    "website_url": "https://runwayml.com",
+    "category": "Video Ai",
+    "logo_url": ""
+  },
+  {
+    "name": "Descript",
+    "description": "AI-powered video and podcast editor.",
+    "website_url": "https://www.descript.com",
+    "category": "Video Ai",
+    "logo_url": ""
+  },
+  {
+    "name": "Leonardo.ai",
+    "description": "Ai image generation and creative production platform.",
+    "website_url": "https://leonardo.ai",
+    "category": "Image Generator",
+    "logo_url": ""
+  },
+  {
+    "name": "DALL-E 3",
+    "description": "Latest image generation model from OpenAI.",
+    "website_url": "https://openai.com/dall-e-3",
+    "category": "Image Generator",
+    "logo_url": ""
+  },
+  {
+    "name": "Perplexity",
+    "description": "AI-powered search engine that provides direct answers.",
+    "website_url": "https://www.perplexity.ai",
+    "category": "Search",
+    "logo_url": ""
+  },
+  {
+    "name": "Replicate",
+    "description": "Run AI models in the cloud with an API.",
+    "website_url": "https://replicate.com",
+    "category": "Developer Tools",
+    "logo_url": ""
+  },
+  {
+    "name": "Hugging Face",
+    "description": "The AI community building the future of machine learning.",
+    "website_url": "https://huggingface.co",
+    "category": "Developer Tools",
+    "logo_url": ""
+  },
+  {
+    "name": "ElevenLabs",
+    "description": "Prime AI text to speech and voice cloning.",
+    "website_url": "https://elevenlabs.io",
+    "category": "Audio Ai",
+    "logo_url": ""
+  },
+  {
+    "name": "Luma Dream Machine",
+    "description": "High-quality AI video generator.",
+    "website_url": "https://lumalabs.ai",
+    "category": "Video Ai",
+    "logo_url": ""
+  },
+  {
+    "name": "Suno AI",
+    "description": "AI music generator that creates full songs.",
+    "website_url": "https://suno.com",
+    "category": "Audio Ai",
+    "logo_url": ""
+  },
+  {
+    "name": "Notion AI",
+    "description": "Write faster, think bigger, and augment your creativity inside Notion.",
+    "website_url": "https://notion.so/ai",
+    "category": "Productivity",
+    "logo_url": ""
+  },
+  {
+    "name": "Otter.ai",
+    "description": "AI meeting assistant that record notes and summarizes.",
+    "website_url": "https://otter.ai",
+    "category": "Productivity",
+    "logo_url": ""
+  },
+  {
+    "name": "Canva Magic Studio",
+    "description": "AI-powered design tools within Canva.",
+    "website_url": "https://www.canva.com",
+    "category": "Design",
+    "logo_url": ""
+  },
+  {
+    "name": "Adobe Firefly",
+    "description": "Generative AI for creative design within Adobe ecosystem.",
+    "website_url": "https://www.adobe.com/firefly",
+    "category": "Design",
+    "logo_url": ""
+  },
+  {
+    "name": "Gamma",
+    "description": "AI generator for presentations and web pages.",
+    "website_url": "https://gamma.app",
+    "category": "Productivity",
+    "logo_url": ""
+  },
+  {
+    "name": "Stable Diffusion",
+    "description": "Open-source latent text-to-image diffusion model.",
+    "website_url": "https://stability.ai",
+    "category": "Image Generator",
+    "logo_url": ""
+  },
+  {
+    "name": "Character.ai",
+    "description": "Chat with AI personas and characters.",
+    "website_url": "https://character.ai",
+    "category": "Chatbots",
+    "logo_url": ""
+  },
+  {
+    "name": "Quillbot",
+    "description": "AI paraphrasing and summarizing tool.",
+    "website_url": "https://quillbot.com",
+    "category": "Content Creation",
+    "logo_url": ""
+  },
+  {
+    "name": "Pika Labs",
+    "description": "Idea-to-video platform for animated content.",
+    "website_url": "https://pika.art",
+    "category": "Video Ai",
+    "logo_url": ""
+  },
+  {
+    "name": "Liner",
+    "description": "AI workspace for search, highlighter and copilot.",
+    "website_url": "https://getliner.com",
+    "category": "Search",
+    "logo_url": ""
+  },
+  {
+    "name": "Wordtune",
+    "description": "AI writing companion that rephrases sentences.",
+    "website_url": "https://www.wordtune.com",
+    "category": "Content Creation",
+    "logo_url": ""
+  },
+  {
+    "name": "Phind",
+    "description": "AI search engine for developers.",
+    "website_url": "https://www.phind.com",
+    "category": "Coding Assistant",
+    "logo_url": ""
+  },
+  {
+    "name": "Cursor",
+    "description": "AI-powered code editor built on VS Code.",
+    "website_url": "https://cursor.com",
+    "category": "Coding Assistant",
+    "logo_url": ""
+  },
+  {
+    "name": "Blackbox AI",
+    "description": "AI coding assistant and code search engine.",
+    "website_url": "https://www.blackbox.ai",
+    "category": "Coding Assistant",
+    "logo_url": ""
+  },
+  {
+    "name": "HeyGen",
+    "description": "AI video generator with photorealistic avatars.",
+    "website_url": "https://www.heygen.com",
+    "category": "Video Ai",
+    "logo_url": ""
+  },
+  {
+    "name": "Murf AI",
+    "description": "Studio-quality AI voice generator.",
+    "website_url": "https://murf.ai",
+    "category": "Audio Ai",
+    "logo_url": ""
+  },
+  {
+    "name": "Looka",
+    "description": "AI logo maker and brand builder.",
+    "website_url": "https://looka.com",
+    "category": "Design",
+    "logo_url": ""
+  },
+  {
+    "name": "Brandmark",
+    "description": "AI-based logo design system.",
+    "website_url": "https://brandmark.io",
+    "category": "Design",
+    "logo_url": ""
+  },
+  {
+    "name": "Veed.io",
+    "description": "AI-powered video editor and translator.",
+    "website_url": "https://www.veed.io",
+    "category": "Video Ai",
+    "logo_url": ""
+  },
+  {
+    "name": "Fliki",
+    "description": "Create videos from text with AI voices.",
+    "website_url": "https://fliki.ai",
+    "category": "Video Ai",
+    "logo_url": ""
+  },
+  {
+    "name": "DeepL",
+    "description": "Highly accurate AI language translation.",
+    "website_url": "https://www.deepl.com",
+    "category": "Translation",
+    "logo_url": ""
+  },
+  {
+    "name": "Soundraw",
+    "description": "AI music generator for content creators.",
+    "website_url": "https://soundraw.io",
+    "category": "Audio Ai",
+    "logo_url": ""
+  },
+  {
+    "name": "Craiyon",
+    "description": "Free online AI image generator from text.",
+    "website_url": "https://www.craiyon.com",
+    "category": "Image Generator",
+    "logo_url": ""
+  },
+  {
+    "name": "Lexica",
+    "description": "Search engine and generator for Stable Diffusion art.",
+    "website_url": "https://lexica.art",
+    "category": "Image Generator",
+    "logo_url": ""
+  },
+  {
+    "name": "Beautiful.ai",
+    "description": "AI presentation software for beautiful slides.",
+    "website_url": "https://www.beautiful.ai",
+    "category": "Productivity",
+    "logo_url": ""
+  },
+  {
+    "name": "Writesonic",
+    "description": "AI writing platform for blogs and ads.",
+    "website_url": "https://writesonic.com",
+    "category": "Content Creation",
+    "logo_url": ""
+  },
+  {
+    "name": "Rytr",
+    "description": "AI writing assistant for catchy content.",
+    "website_url": "https://rytr.me",
+    "category": "Content Creation",
+    "logo_url": ""
+  },
+  {
+    "name": "Tome",
+    "description": "Generative storytelling for business presentations.",
+    "website_url": "https://tome.app",
+    "category": "Productivity",
+    "logo_url": ""
+  },
+  {
+    "name": "Aiself",
+    "description": "AI tools directory and discovery platform.",
+    "website_url": "https://aiself.io",
+    "category": "Directory",
+    "logo_url": ""
+  },
+  {
+    "name": "Futurepedia",
+    "description": "Largest AI tools directory and aggregator.",
+    "website_url": "https://futurepedia.io",
+    "category": "Directory",
+    "logo_url": ""
+  },
+  {
+    "name": "There is an AI for that",
+    "description": "Timeline of AI tools since 2015.",
+    "website_url": "https://theresanaiforthat.com",
+    "category": "Directory",
+    "logo_url": ""
+  },
+  {
+    "name": "Product Hunt AI",
+    "description": "Latest AI product launches on Product Hunt.",
+    "website_url": "https://www.producthunt.com/topics/artificial-intelligence",
+    "category": "Directory",
+    "logo_url": ""
+  }
+]
